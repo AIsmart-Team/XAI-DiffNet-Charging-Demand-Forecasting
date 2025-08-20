@@ -6,7 +6,8 @@
 
 ### 论文题目: 多尺度可解释图学习在城市能源系统电动汽车充电需求预测中的应用
 
-[GraphicalAbstract.pdf](https://github.com/user-attachments/files/21882811/GraphicalAbstract.pdf)
+<img width="944" height="587" alt="Snipaste_2025-08-20_13-10-09" src="https://github.com/user-attachments/assets/130afb1c-e9f3-41f5-a773-4a051fac2f5a" />
+
 
 ---
 
